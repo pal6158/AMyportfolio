@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://hani-thakkar-portfolio.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -16,9 +16,9 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](assets/images/projects/Screenshot%202025-01-16%20012842.png)
+![mockup720]()
 ![ss](assets/images/projects/Screenshot%202025-01-16%20012903.png)
-![ss2](assets/images/projects/Screenshot%202025-01-16%20012939.png)
+![ss2]()
 
 
 

@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Initialize typing effect
     new Typed(".typing-text", {
-        strings: ["frontend development", "web development"],
+        strings: ["Full-stack Development", "web development"],
         loop: true,
         typeSpeed: 50,
         backSpeed: 25,
